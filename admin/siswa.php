@@ -9,7 +9,7 @@
         <td>Nama</td>
         <td>Kelas</td>
         <td>Alamat</td>
-        <td>No. Telps</td>
+        <td>No. Telp</td>
         <td>SPP</td>
         <td>Edit</td>
         <td>Hapus</td>
